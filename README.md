@@ -1,3 +1,5 @@
 # MINS
-Multi-Interest News Sequence model
-the code will upload soon.
+The implement of Multi-Interest News Sequence model.
+
+
+
