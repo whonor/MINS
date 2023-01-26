@@ -1,5 +1,9 @@
 # MINS
 The implement of Multi-Interest News Sequence model.
+```bash
+Wang, R., Wang, S., Lu, W., Peng, X.: News recommendation via multi-interest
+news sequence modelling. In: ICASSP. pp. 7942–7946 (2022)
+```
 
 ## Requirement
 
@@ -29,6 +33,19 @@ https://msnews.github.io/.
 python3 src/train1.py
 # Load latest checkpoint and evaluate on the test set
 python3 src/evaluate.py
+```
+
+## Acknowledgement
+Any scientific publications that use our codes and datasets should cite the following paper as the reference:
+```bash
+@inproceedings{wang2022news,
+  title={News recommendation via multi-interest news sequence modelling},
+  author={Wang, Rongyao and Wang, Shoujin and Lu, Wenpeng and Peng, Xueping},
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={7942--7946},
+  year={2022},
+  organization={IEEE}
+}
 ```
 
 ### Credits
